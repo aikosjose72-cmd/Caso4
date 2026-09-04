@@ -1,4 +1,4 @@
-# Análisis estadístico: comparación Antes vs Después (Caso4)
+# Análisis estadístico: comparación Antes vs Después (Caso4) Dani Dino
 
 Este repositorio contiene el análisis estadístico completo, reproducible en R, de una base de datos con **26 sujetos (`Cultivo`)** medidos en dos momentos: **Antes** y **Después** de una intervención/tratamiento.
 
@@ -287,4 +287,4 @@ cd <repositorio>
 Rscript analisis_caso4.R
 ```
 
-O bien, copiar cada bloque de código de este documento en una sesión de R/RStudio, en el mismo orden en que aparecen (cada parte depende de los objetos creados en las partes anteriores).
+O bien, copia cada bloque de código de este documento en una sesión de R/RStudio, en el mismo orden en que aparecen (cada parte depende de los objetos creados en las partes anteriores).
